@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: besi homepage
-description: Bookmark this to keep an eye on my project updates!
+<html>
+<img src="photo.png" alt="My Photo">
+<center> <h2>  This is a test of my webpage</h2> </center>
+</html>
